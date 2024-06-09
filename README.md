@@ -1,11 +1,10 @@
 **Title:** 
 Analysis of Positional Spending by Super Bowl Teams 2014-2023
-
 **Author:**
 Joshua Sipple
-
 **Date:**
 23 MAY 2024
+
 
 **Background** 
 
