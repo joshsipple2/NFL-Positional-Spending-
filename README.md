@@ -29,3 +29,7 @@ remaining data to be used in my analyses.
  https://overthecap.com/positional-spending
  
  https://www.spotrac.com/nfl/cba
+
+ **License**
+
+ MIT License
