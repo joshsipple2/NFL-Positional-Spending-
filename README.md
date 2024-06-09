@@ -1,4 +1,5 @@
 **Background** 
+
 In the NFL, the presence of a hard salary cap (a fixed and inflexible limit on how much a given NFL team can spend in a given season on its roster) strongly impacts a franchise's ability to compete for championships. Specifically, it makes it difficult for franchises to keep their best players at the most impactful positions, as these players become highly sought after and command ever larger salaries. Paying more for one player directly lessens that team's ability to bid on the services of a different player. Given this, I decided to compare historical positional spending to current positional spending. I used R to scrape selected sports websites for the desired data. I then cleaned and reorganized said data and exported the results to Excel. I then used Tableau Public to create a visualization of the results. I have included the R Script as a zip file and a link to the dashboard on Tableau Public. 
 
 Title: Analysis of Positional Spending by Super Bowl Teams 2014-2023
